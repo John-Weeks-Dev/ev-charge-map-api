@@ -33,7 +33,7 @@ php artisan key:generate
 php artisan serve
 ```
 
-Create a DATABASE an now do the command 
+Create a DATABASE an then run the command 
 ```
 php artisan migrate
 ```
