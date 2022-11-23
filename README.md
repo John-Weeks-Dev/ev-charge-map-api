@@ -1,4 +1,4 @@
-# Project setup
+# EV Charge Map API (ev-charge-map-api)
 
 ### Tutorial series on how to build this
 
