@@ -8,7 +8,7 @@ If you'd like a step by step guide on how to build this just **CLICK THE IMAGE B
 
 Come and check out my YOUTUBE channel for lots more tutorials -> https://www.youtube.com/@johnweeksdev
 
-Like, Subscribe, and SMASH THE NOTIFICATION BELL!!!
+**LIKE**, **SUBSCRIBE**, and **SMASH THE NOTIFICATION BELL**!!!
 
 ## Setup
 
